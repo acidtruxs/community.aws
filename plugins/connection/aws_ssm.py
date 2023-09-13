@@ -1,5 +1,4 @@
 # acidtruxs - change 1
-# acidtruxs - change 2
 
 # -*- coding: utf-8 -*-
 
