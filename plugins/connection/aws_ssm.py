@@ -420,7 +420,7 @@ class Connection(ConnectionBase):
         s3_bucket_client = self._get_boto_client(
             "s3",
             region_name=bucket_region,
-        # I HAVE COMPLETELY RUINED THIS PLUGIN MWAHAHAHAHAHAHAHAHAHA
+        # I HAVE COMPLETELY RUINED THIS PLUGIN tee-hee.
             profile_name=profile_name,
         )
 
